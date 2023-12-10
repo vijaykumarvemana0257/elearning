@@ -1,0 +1,8 @@
+1. Authentication
+        Signup,login manually social auth
+        Update profile, get profile,
+2. Layout
+3. Courses
+4. Analytics
+5. Orders
+6. Notification
